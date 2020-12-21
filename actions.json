@@ -1,0 +1,6 @@
+[
+  {
+    "name": "Action that tag some friends", // Just name your action
+    "text": "Can you answer me guys ?", // A text to be typed as a message
+  },
+]
